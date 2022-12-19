@@ -13,8 +13,6 @@ class Account{
         acc_type = "Saving";
         bal = 0;
     }
-
-    public 
 }
 //       1
 //      22
